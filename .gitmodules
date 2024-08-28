@@ -1,0 +1,6 @@
+[submodule "task-app"]
+	path = task-app
+	url = https://github.com/vitorhoffm/To-Do---Task-List.git
+[submodule "task-list-backend"]
+	path = task-list-backend
+	url = https://github.com/vitorhoffm/To-Do---Task-List.git
